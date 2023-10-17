@@ -1,0 +1,12 @@
+D:\C#\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+D:\C#\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+D:\C#\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+D:\C#\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+D:\C#\WeatherApp\WeatherApp\bin\Debug\System.Data.SQLite.dll
+D:\C#\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+D:\C#\WeatherApp\WeatherApp\bin\Debug\System.Data.SQLite.xml
+D:\C#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+D:\C#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+D:\C#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete
+D:\C#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+D:\C#\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb

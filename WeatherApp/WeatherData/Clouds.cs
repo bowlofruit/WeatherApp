@@ -1,0 +1,7 @@
+﻿namespace ConsoleApp1
+{
+    public class Clouds
+    {
+        public int All { get; set; }
+    }
+}
